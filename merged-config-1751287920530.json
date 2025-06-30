@@ -162,26 +162,84 @@
       "tag": "Internet",
       "type": "selector",
       "outbounds": [
-        "🇸🇬 (SG) \"DigitalOcean",
-        "🇸🇬 (SG) AKILE LTD\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Public Cloud\r",
-        "🇸🇬 (SG) Melbikomas UAB\r",
-        "🇸🇬 (SG) Melbikomas UAB\r",
-        "🇸🇬 (SG) 16 COLLYER QUAY\r",
-        "🇸🇬 (SG) REGXA LLC\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) \"DigitalOcean",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) FIRST SERVER LIMITED\r",
-        "🇸🇬 (SG) Alibaba Cloud LLC\r",
-        "🇸🇬 (SG) Alibaba Cloud LLC\r",
-        "🇸🇬 (SG) Amazon Data Services Singapore\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Svenska AB\r",
-        "🇸🇬 (SG) 365 Group LLC\r",
+        "🇸🇪 (SE) Aeza International LTD\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇫🇷 (FR) 3NT SOLUTIONS LLP\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇭🇺 (HU) 3NT SOLUTIONS LLP\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) 3NT SOLUTIONS LLP\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) N/A\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇮🇹 (IT) Aruba S.p.A. - Cloud Services DC1\r",
+        "🇩🇪 (DE) Hetzner Online GmbH\r",
+        "🇩🇪 (DE) A100 ROW GmbH\r",
+        "🇦🇺 (AU) Oracle Public Cloud\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇦🇲 (AM) Proitlab LLC\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇦🇹 (AT) Aeza International LTD\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇫🇷 (FR) Internet Utilities Europe and Asia Limited\r",
+        "🇩🇪 (DE) OVH GmbH\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇩🇪 (DE) Aeza International LTD\r",
+        "🇬🇧 (GB) ahbr company limited\r",
+        "🇩🇪 (DE) aurologic GmbH\r",
+        "🇩🇪 (DE) IPXO\r",
+        "🇬🇧 (GB) OU IPHOSTER\r",
+        "🇮🇷 (IR) Sefroyek Pardaz Engineering PJSC\r",
+        "🇦🇺 (AU) Linode\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇦🇲 (AM) Proitlab LLC\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇬🇧 (GB) Aeza International LTD\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇩🇪 (DE) OVH GmbH\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇪🇪 (EE) Brainoza OU\r",
+        "🇮🇳 (IN) \"DigitalOcean",
+        "🇩🇪 (DE) fra customers\r",
+        "🇦🇷 (AR) SM Web Group SH\r",
+        "🇫🇷 (FR) NET 146 103 49 0 24\r",
+        "🇫🇮 (FI) PSERVERS Enterprise Network\r",
+        "🇦🇿 (AZ) DELTA LeasedLine Network\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇮🇹 (IT) Melbikomas UAB\r",
+        "🇮🇱 (IL) Webhost LLC\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇩🇪 (DE) AEZA GROUP Ltd\r",
+        "🇩🇪 (DE) Aeza International LTD\r",
+        "🇫🇷 (FR) Internet Utilities Europe and Asia Limited\r",
+        "🇬🇧 (GB) Aeza International LTD\r",
+        "🇯🇵 (JP) WorkTitans B.V.\r",
+        "🇧🇩 (BD) Star Internet Service\r",
+        "🇫🇷 (FR) NET 146 103 49 0 24\r",
+        "🇩🇪 (DE) OVH GmbH\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇯🇵 (JP) Oracle Svenska AB\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇭🇺 (HU) WorkTitans B.V.\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "quiz.int.vidio.com",
         "direct"
       ]
     },
@@ -189,26 +247,84 @@
       "type": "urltest",
       "tag": "Best Latency",
       "outbounds": [
-        "🇸🇬 (SG) \"DigitalOcean",
-        "🇸🇬 (SG) AKILE LTD\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Public Cloud\r",
-        "🇸🇬 (SG) Melbikomas UAB\r",
-        "🇸🇬 (SG) Melbikomas UAB\r",
-        "🇸🇬 (SG) 16 COLLYER QUAY\r",
-        "🇸🇬 (SG) REGXA LLC\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) \"DigitalOcean",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) FIRST SERVER LIMITED\r",
-        "🇸🇬 (SG) Alibaba Cloud LLC\r",
-        "🇸🇬 (SG) Alibaba Cloud LLC\r",
-        "🇸🇬 (SG) Amazon Data Services Singapore\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Svenska AB\r",
-        "🇸🇬 (SG) 365 Group LLC\r",
+        "🇸🇪 (SE) Aeza International LTD\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇫🇷 (FR) 3NT SOLUTIONS LLP\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇭🇺 (HU) 3NT SOLUTIONS LLP\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) 3NT SOLUTIONS LLP\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) N/A\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇮🇹 (IT) Aruba S.p.A. - Cloud Services DC1\r",
+        "🇩🇪 (DE) Hetzner Online GmbH\r",
+        "🇩🇪 (DE) A100 ROW GmbH\r",
+        "🇦🇺 (AU) Oracle Public Cloud\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇦🇲 (AM) Proitlab LLC\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇦🇹 (AT) Aeza International LTD\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇫🇷 (FR) Internet Utilities Europe and Asia Limited\r",
+        "🇩🇪 (DE) OVH GmbH\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇩🇪 (DE) Aeza International LTD\r",
+        "🇬🇧 (GB) ahbr company limited\r",
+        "🇩🇪 (DE) aurologic GmbH\r",
+        "🇩🇪 (DE) IPXO\r",
+        "🇬🇧 (GB) OU IPHOSTER\r",
+        "🇮🇷 (IR) Sefroyek Pardaz Engineering PJSC\r",
+        "🇦🇺 (AU) Linode\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇦🇲 (AM) Proitlab LLC\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇬🇧 (GB) Aeza International LTD\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇩🇪 (DE) OVH GmbH\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇪🇪 (EE) Brainoza OU\r",
+        "🇮🇳 (IN) \"DigitalOcean",
+        "🇩🇪 (DE) fra customers\r",
+        "🇦🇷 (AR) SM Web Group SH\r",
+        "🇫🇷 (FR) NET 146 103 49 0 24\r",
+        "🇫🇮 (FI) PSERVERS Enterprise Network\r",
+        "🇦🇿 (AZ) DELTA LeasedLine Network\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇮🇹 (IT) Melbikomas UAB\r",
+        "🇮🇱 (IL) Webhost LLC\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇩🇪 (DE) AEZA GROUP Ltd\r",
+        "🇩🇪 (DE) Aeza International LTD\r",
+        "🇫🇷 (FR) Internet Utilities Europe and Asia Limited\r",
+        "🇬🇧 (GB) Aeza International LTD\r",
+        "🇯🇵 (JP) WorkTitans B.V.\r",
+        "🇧🇩 (BD) Star Internet Service\r",
+        "🇫🇷 (FR) NET 146 103 49 0 24\r",
+        "🇩🇪 (DE) OVH GmbH\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇯🇵 (JP) Oracle Svenska AB\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇭🇺 (HU) WorkTitans B.V.\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "quiz.int.vidio.com",
         "direct"
       ],
       "url": "https://www.gstatic.com/generate_204",
@@ -218,405 +334,1565 @@
       "type": "selector",
       "tag": "Lock Region ID",
       "outbounds": [
-        "🇸🇬 (SG) \"DigitalOcean",
-        "🇸🇬 (SG) AKILE LTD\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Public Cloud\r",
-        "🇸🇬 (SG) Melbikomas UAB\r",
-        "🇸🇬 (SG) Melbikomas UAB\r",
-        "🇸🇬 (SG) 16 COLLYER QUAY\r",
-        "🇸🇬 (SG) REGXA LLC\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) \"DigitalOcean",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) FIRST SERVER LIMITED\r",
-        "🇸🇬 (SG) Alibaba Cloud LLC\r",
-        "🇸🇬 (SG) Alibaba Cloud LLC\r",
-        "🇸🇬 (SG) Amazon Data Services Singapore\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Corporation\r",
-        "🇸🇬 (SG) Oracle Svenska AB\r",
-        "🇸🇬 (SG) 365 Group LLC\r"
+        "🇸🇪 (SE) Aeza International LTD\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇫🇷 (FR) 3NT SOLUTIONS LLP\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇭🇺 (HU) 3NT SOLUTIONS LLP\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) 3NT SOLUTIONS LLP\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇷 (FR) N/A\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇮🇹 (IT) Aruba S.p.A. - Cloud Services DC1\r",
+        "🇩🇪 (DE) Hetzner Online GmbH\r",
+        "🇩🇪 (DE) A100 ROW GmbH\r",
+        "🇦🇺 (AU) Oracle Public Cloud\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇦🇲 (AM) Proitlab LLC\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇦🇹 (AT) Aeza International LTD\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇫🇷 (FR) Internet Utilities Europe and Asia Limited\r",
+        "🇩🇪 (DE) OVH GmbH\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇩🇪 (DE) Aeza International LTD\r",
+        "🇬🇧 (GB) ahbr company limited\r",
+        "🇩🇪 (DE) aurologic GmbH\r",
+        "🇩🇪 (DE) IPXO\r",
+        "🇬🇧 (GB) OU IPHOSTER\r",
+        "🇮🇷 (IR) Sefroyek Pardaz Engineering PJSC\r",
+        "🇦🇺 (AU) Linode\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇦🇲 (AM) Proitlab LLC\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇬🇧 (GB) Aeza International LTD\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇩🇪 (DE) OVH GmbH\r",
+        "🇬🇧 (GB) OVH Ltd\r",
+        "🇫🇮 (FI) Aeza International LTD\r",
+        "🇪🇪 (EE) Brainoza OU\r",
+        "🇮🇳 (IN) \"DigitalOcean",
+        "🇩🇪 (DE) fra customers\r",
+        "🇦🇷 (AR) SM Web Group SH\r",
+        "🇫🇷 (FR) NET 146 103 49 0 24\r",
+        "🇫🇮 (FI) PSERVERS Enterprise Network\r",
+        "🇦🇿 (AZ) DELTA LeasedLine Network\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇮🇹 (IT) Melbikomas UAB\r",
+        "🇮🇱 (IL) Webhost LLC\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇩🇪 (DE) AEZA GROUP Ltd\r",
+        "🇩🇪 (DE) Aeza International LTD\r",
+        "🇫🇷 (FR) Internet Utilities Europe and Asia Limited\r",
+        "🇬🇧 (GB) Aeza International LTD\r",
+        "🇯🇵 (JP) WorkTitans B.V.\r",
+        "🇧🇩 (BD) Star Internet Service\r",
+        "🇫🇷 (FR) NET 146 103 49 0 24\r",
+        "🇩🇪 (DE) OVH GmbH\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "🇫🇮 (FI) Hetzner Online GmbH\r",
+        "🇯🇵 (JP) Oracle Svenska AB\r",
+        "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+        "🇭🇺 (HU) WorkTitans B.V.\r",
+        "🇫🇷 (FR) OVH SAS\r",
+        "quiz.int.vidio.com"
       ]
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) \"DigitalOcean",
+      "type": "trojan",
+      "tag": "🇸🇪 (SE) Aeza International LTD\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "737ff01b-019c-4dbb-b445-8b4cbc315684",
+      "password": "53f51f96-a21f-4414-ad82-900fe22f209a",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/104.248.145.216-443",
+        "path": "/77.232.143.39-2053",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) AKILE LTD\r",
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "d0c25f37-6603-4b36-806a-7a26ccd1b636",
+      "password": "1eb4abf9-d145-4a1f-abd2-bf64c3fdcd84",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/185.81.28.95-30503",
+        "path": "/57.129.137.53-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Oracle Corporation\r",
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "e1ba454a-396f-4614-a50f-b806da44bff8",
+      "password": "ae8b171c-af3e-4d40-b404-dba40ff68c33",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/138.2.101.213-15204",
+        "path": "/57.129.137.226-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Oracle Public Cloud\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "6beb57f8-1242-418e-961c-5b63159e6676",
+      "password": "cff23e23-b285-4555-b028-aa08b7ec157a",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/168.138.181.188-61731",
+        "path": "/57.128.26.213-443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Melbikomas UAB\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "b9dfa418-4ce7-4ce4-ba42-85f50f30cff4",
+      "password": "5fc8d852-3b9b-457c-a3cf-ac96ad93b6d2",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/91.192.81.154-2053",
+        "path": "/57.128.28.164-443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Melbikomas UAB\r",
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "202d4dc5-ce00-4ead-a949-98dc65b1d9e9",
+      "password": "d40dd14e-ce2e-4bb0-9d98-7afcea91eb8b",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/91.192.81.154-8443",
+        "path": "/57.128.177.176-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) 16 COLLYER QUAY\r",
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "b6ba02fa-9d5a-4caa-af3b-c329e9fd1b87",
+      "password": "bdde3763-8856-41fd-91d6-06b9aaeac201",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/150.109.94.144-8900",
+        "path": "/57.128.178.122-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) REGXA LLC\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) Jules Durand--Arnaudet\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "45f6ddf8-58d6-476d-be7f-47123ae9422a",
+      "password": "69d6223d-ff91-4f7e-add1-986530ad4a6d",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/206.206.76.208-8443",
+        "path": "/45.112.195.250-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Oracle Corporation\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) 3NT SOLUTIONS LLP\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "cfc6bba6-87c7-4f98-b5de-0d1071fd9f56",
+      "password": "06139445-9b08-4cd3-8a6b-26844a931d6d",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/152.69.221.114-23302",
+        "path": "/38.180.153.85-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) \"DigitalOcean",
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "f72b3092-43ef-498e-8887-113fafc541f0",
+      "password": "7e02e92d-b1aa-4f37-bc06-2f044e9da8a1",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/178.128.80.43-443",
+        "path": "/57.128.178.36-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Oracle Corporation\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "7ad6e233-1bf1-4c0a-bb37-3d75b090aa5e",
+      "password": "31c87b90-ba24-4eac-9551-f395e3a20f58",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/146.235.19.79-28983",
+        "path": "/141.94.220.157-2053",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) FIRST SERVER LIMITED\r",
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "02fadefd-5ad2-4751-ac5c-b7368563be02",
+      "password": "34bb153e-85a0-4bff-b09f-3022c1017c84",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/194.36.179.17-2053",
+        "path": "/57.129.137.233-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Alibaba Cloud LLC\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) Jules Durand--Arnaudet\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "fad652cf-f2fe-407b-bfaf-bc30214c1044",
+      "password": "dda0a72d-6778-4ab4-a450-0fc93614d614",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/47.236.181.185-8443",
+        "path": "/103.102.231.194-2053",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Alibaba Cloud LLC\r",
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "46333d9c-8bd6-42fd-af6b-d11638e853dd",
+      "password": "3f500c81-37ef-42bc-a062-e6766e398b96",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/47.236.119.190-51342",
+        "path": "/57.128.178.196-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Amazon Data Services Singapore\r",
+      "type": "trojan",
+      "tag": "🇭🇺 (HU) 3NT SOLUTIONS LLP\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "2063a91a-10be-431d-a7e8-d53f33dcf03a",
+      "password": "6948f0a1-7bd3-455b-96c5-c435cc1afde8",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/13.250.14.76-443",
+        "path": "/38.180.108.148-443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Oracle Corporation\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "41b0bda8-36ea-4ae2-acac-3f6facb7ce69",
+      "password": "e9088675-8d84-4fba-8ac5-2fab12625116",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/129.150.49.58-18650",
+        "path": "/57.128.26.67-443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Oracle Corporation\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) 3NT SOLUTIONS LLP\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "616c492b-9280-474b-850f-042184cd8517",
+      "password": "710b0390-f8b0-48bf-96dc-435db1bfe6e3",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/129.150.50.21-44009",
+        "path": "/38.180.93.241-443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Oracle Corporation\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "676ec141-9a42-45fb-b117-ff6d3ca35509",
+      "password": "10bfa4b9-8c14-4f47-9f93-e2e240d059bc",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/152.69.220.136-53076",
+        "path": "/141.94.207.218-2053",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) Oracle Svenska AB\r",
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "c657c7be-659c-4397-9aa5-c587467b5c0b",
+      "password": "0e507cc0-0e58-4248-b390-08fe0b6b7123",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/213.35.100.31-47112",
+        "path": "/141.94.68.157-8443",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "🇸🇬 (SG) 365 Group LLC\r",
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
-      "uuid": "092ed153-6fa7-47f3-a742-b3176b3c63a8",
+      "password": "59c35e15-251c-4372-8d00-f4535f806d99",
       "tls": {
         "enabled": true,
-        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "server_name": "admin.ari-andika2.site",
         "insecure": false
       },
       "transport": {
         "type": "ws",
-        "path": "/167.253.158.63-2053",
+        "path": "/198.244.169.93-12122",
         "headers": {
-          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) N/A\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "bb39be84-e0f6-423a-99c3-6b1e4a39c6ec",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/86.38.156.121-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "10595283-69f9-4897-8513-90eceaab1fd8",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/103.102.231.237-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇮🇹 (IT) Aruba S.p.A. - Cloud Services DC1\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "97b922ff-56bc-4eed-bdac-51b9d31884f3",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/80.211.55.235-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) Hetzner Online GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "de8c05fc-f076-458d-b9ee-48683da900fc",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/23.88.45.125-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) A100 ROW GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "4591f4fa-b62c-4b30-9691-d0f544a93fa3",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/63.176.11.74-2096",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇦🇺 (AU) Oracle Public Cloud\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "94545730-522e-4bab-a254-6cd62a6d17e8",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/152.67.101.72-23010",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 (FI) Aeza International LTD\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "814d4dd8-770e-42a6-a6df-e0795cc75d22",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/85.192.61.198-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇦🇲 (AM) Proitlab LLC\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "221ac084-044e-41f8-9b29-c86e32dfbf54",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/2.56.205.182-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "9d68c6f2-e333-4819-9460-6ef5561df976",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/5.196.13.217-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "70c9545c-fcc7-4eb5-b56f-53c8f01944be",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/51.178.82.149-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "055794c3-cd04-4d56-82ab-a24c1e7b3325",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/103.102.231.115-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇦🇹 (AT) Aeza International LTD\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "a91c8f5b-63d5-4240-8a8e-452012ac84c8",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/212.113.119.130-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 (FI) Hetzner Online GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "f87d8ea4-d5a8-4d77-ab62-bdbe5ab8ad09",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/95.217.184.234-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) Internet Utilities Europe and Asia Limited\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "77093007-7e2b-440b-846b-74b8a1567b4d",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/191.96.153.183-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) OVH GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "93d7ec8a-3cd0-4763-95bd-9b8fea74608f",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/51.195.102.68-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 (FI) Aeza International LTD\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "064ebd6a-bb34-4c78-b3b0-415dc9690d39",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/62.60.228.18-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) Aeza International LTD\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "0efceebd-acdc-44d1-90ad-37cda54d4faf",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/185.128.104.124-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) ahbr company limited\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "b68773fd-2169-458a-8456-825e86d7340b",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/5.144.182.89-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) aurologic GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "5ae9146f-8b4b-4085-bb05-ae66dc7f4eab",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.147.228.249-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) IPXO\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "b369dfe5-5a01-4654-bd4e-88adbbed1751",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/194.76.173.103-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OU IPHOSTER\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "941e8637-8d58-4873-af29-5b978ccc2746",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/145.239.201.32-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇮🇷 (IR) Sefroyek Pardaz Engineering PJSC\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "f2908ca6-736d-4a0e-bf7d-78ec79788d8f",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/80.249.112.162-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇦🇺 (AU) Linode\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "597b7b5a-dcfd-4f4a-9a3b-3007df541662",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/172.105.174.237-587",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 (FI) Aeza International LTD\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "28f37974-f16d-4f43-95b9-d33bde94600f",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/62.60.249.146-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇦🇲 (AM) Proitlab LLC\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "3f746aa9-731f-47f3-aa07-dbbda423b8e4",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/2.56.206.160-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 (FI) Hetzner Online GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "72b3fb48-2874-4624-8c14-a52d10b8df7d",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/65.109.12.58-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "79669577-c0a0-4b2e-8b78-31e9496177f2",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/57.128.176.90-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) Aeza International LTD\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "a5b89b3c-61af-451f-85f1-ade636e80bdf",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/217.144.189.124-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "409278c9-ba99-45ff-9be2-e57fbbb1a714",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/57.129.137.232-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) OVH GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "2441ee47-fcdc-46b9-a6b1-96d2553fa490",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/54.37.74.239-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) OVH Ltd\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "c12627b2-462f-43f5-8c29-b1797e9699d3",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/57.128.178.63-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 (FI) Aeza International LTD\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "206d8be4-23bb-4688-b84e-3b37099aa791",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/62.60.237.105-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇪🇪 (EE) Brainoza OU\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "90676e0f-a492-4958-a39e-d744aa04b7b8",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/185.36.140.105-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇮🇳 (IN) \"DigitalOcean",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "b3d92089-1dad-4b85-8f10-d74b03968cae",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/134.209.148.128-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) fra customers\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "38c94d24-bbd0-4940-8430-6c5502664c3a",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/89.19.44.192-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇦🇷 (AR) SM Web Group SH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "728124d3-3b7f-45f6-aeee-6333870bd7a2",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/190.183.61.62-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) NET 146 103 49 0 24\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "ffafbf62-cae0-4248-85fb-6fb4ff506f17",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/146.103.49.92-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 (FI) PSERVERS Enterprise Network\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "edc6d196-aaf8-4479-b61f-ec10398c58d5",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/194.67.200.82-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇦🇿 (AZ) DELTA LeasedLine Network\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "084d4db2-da99-4e4f-81fb-c1df57996e71",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/185.228.236.86-28803",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 (FI) Hetzner Online GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "1716d6bd-bda7-4753-a220-9d69e1a318c5",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/65.109.180.104-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇮🇹 (IT) Melbikomas UAB\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "e0ddfa37-1e16-4c95-978d-f3772b03de24",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/91.201.67.6-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇮🇱 (IL) Webhost LLC\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "0b5b6e62-180a-4009-a5d4-05d049293480",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/77.91.69.238-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "1288c37a-1e61-4f73-a4ad-19bebd4f9839",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/57.128.24.33-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) AEZA GROUP Ltd\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "1a2238b1-cdea-4dde-bb08-df855efe7f30",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/85.192.63.54-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) Aeza International LTD\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "d1b83372-ff5f-4df6-bced-59a31ed210c8",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/89.208.97.169-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) Internet Utilities Europe and Asia Limited\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "e6f1ce3c-910d-47bb-9d76-57c1f752705b",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/191.96.153.22-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇬🇧 (GB) Aeza International LTD\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "23e62efc-2f7d-4784-a44d-d320aabf255a",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/91.184.242.155-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 (JP) WorkTitans B.V.\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "1204720e-ca39-4bd2-8683-6bac6eef8bef",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/45.12.134.197-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇧🇩 (BD) Star Internet Service\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "a1f5846b-f309-4397-86b6-432539e09101",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/103.115.253.253-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) NET 146 103 49 0 24\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "eabec87d-20f5-40ff-bf6f-c8ff7f8bf67d",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/146.103.49.200-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇩🇪 (DE) OVH GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "a6f4f954-ae6e-48cc-a941-5e4497c62db9",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/162.19.242.212-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "5d223985-26a4-43a4-9ac6-efd175ceb637",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/146.59.156.154-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇮 (FI) Hetzner Online GmbH\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "74237af1-ddcd-4fb4-907c-1edf21fa68cb",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/95.216.148.189-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇯🇵 (JP) Oracle Svenska AB\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "1324ed38-f14d-4130-a78d-cd5e7e635ad9",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/217.142.243.226-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) Jules Durand--Arnaudet\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "ab62ca33-161b-432e-930a-9ab6de4b733a",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/103.102.231.147-2053",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇭🇺 (HU) WorkTitans B.V.\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "f2f3243e-4ba0-4125-9f2f-afd0643bced8",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/95.164.23.71-443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "🇫🇷 (FR) OVH SAS\r",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "a0a1406d-afd4-42c9-9aa8-3d849f4386a1",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/146.59.233.3-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
+    },
+    {
+      "type": "trojan",
+      "tag": "quiz.int.vidio.com",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "c3bbec8c-eb47-44bd-96d9-d06d3aaa7f5e",
+      "tls": {
+        "enabled": true,
+        "server_name": "adm",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "",
+        "headers": {
+          "Host": "quiz.int.vidio.com"
         }
       }
     },
