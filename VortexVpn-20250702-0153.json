@@ -164,14 +164,16 @@
       "outbounds": [
         "Best Latency",
         "direct",
-        "🇩🇪 Oracle Corporation 1",
-        "🇩🇪 OVH SAS 2",
-        "🇫🇷 CGI GLOBAL LIMITED 3",
-        "🇫🇷 OVH SAS 4",
-        "🇳🇱 DigitalOcean, LLC 5",
+        "🇫🇷 OVH SAS 1",
+        "- - 2",
+        "🇳🇱 DigitalOcean, LLC 3",
+        "🇳🇱 Schokker IT B.V. 4",
+        "🇫🇷 CGI GLOBAL LIMITED 5",
         "🇺🇸 IT7 Networks Inc 6",
-        "🇧🇪 PQ HOSTING PLUS S.R.L. 7",
-        "🇳🇱 Schokker IT B.V. 8"
+        "- - 7",
+        "🇩🇪 Oracle Corporation 8",
+        "🇩🇪 OVH SAS 9",
+        "🇧🇪 PQ HOSTING PLUS S.R.L. 10"
       ]
     },
     {
@@ -179,14 +181,16 @@
       "tag": "Best Latency",
       "outbounds": [
         "direct",
-        "🇩🇪 Oracle Corporation 1",
-        "🇩🇪 OVH SAS 2",
-        "🇫🇷 CGI GLOBAL LIMITED 3",
-        "🇫🇷 OVH SAS 4",
-        "🇳🇱 DigitalOcean, LLC 5",
+        "🇫🇷 OVH SAS 1",
+        "- - 2",
+        "🇳🇱 DigitalOcean, LLC 3",
+        "🇳🇱 Schokker IT B.V. 4",
+        "🇫🇷 CGI GLOBAL LIMITED 5",
         "🇺🇸 IT7 Networks Inc 6",
-        "🇧🇪 PQ HOSTING PLUS S.R.L. 7",
-        "🇳🇱 Schokker IT B.V. 8"
+        "- - 7",
+        "🇩🇪 Oracle Corporation 8",
+        "🇩🇪 OVH SAS 9",
+        "🇧🇪 PQ HOSTING PLUS S.R.L. 10"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "30s"
@@ -195,14 +199,16 @@
       "type": "selector",
       "tag": "Lock Region ID",
       "outbounds": [
-        "🇩🇪 Oracle Corporation 1",
-        "🇩🇪 OVH SAS 2",
-        "🇫🇷 CGI GLOBAL LIMITED 3",
-        "🇫🇷 OVH SAS 4",
-        "🇳🇱 DigitalOcean, LLC 5",
+        "🇫🇷 OVH SAS 1",
+        "- - 2",
+        "🇳🇱 DigitalOcean, LLC 3",
+        "🇳🇱 Schokker IT B.V. 4",
+        "🇫🇷 CGI GLOBAL LIMITED 5",
         "🇺🇸 IT7 Networks Inc 6",
-        "🇧🇪 PQ HOSTING PLUS S.R.L. 7",
-        "🇳🇱 Schokker IT B.V. 8"
+        "- - 7",
+        "🇩🇪 Oracle Corporation 8",
+        "🇩🇪 OVH SAS 9",
+        "🇧🇪 PQ HOSTING PLUS S.R.L. 10"
       ]
     },
     {
@@ -253,37 +259,7 @@
     },
     {
       "type": "shadowsocks",
-      "tag": "🇩🇪 Oracle Corporation 1",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "method": "none",
-      "password": "9acae1d4-94a1-453b-b74f-f604bdf75312",
-      "plugin": "v2ray-plugin",
-      "plugin_opts": "mux=0;path=/89.168.68.57-2053;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇩🇪 OVH SAS 2",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "method": "none",
-      "password": "03263c98-b859-47e5-b49f-40cca431a2d1",
-      "plugin": "v2ray-plugin",
-      "plugin_opts": "mux=0;path=/5.178.106.41-2053;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇫🇷 CGI GLOBAL LIMITED 3",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "method": "none",
-      "password": "9722b915-4a04-450b-9186-cadf9a3eae40",
-      "plugin": "v2ray-plugin",
-      "plugin_opts": "mux=0;path=/193.176.179.89-443;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇫🇷 OVH SAS 4",
+      "tag": "🇫🇷 OVH SAS 1",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
       "method": "none",
@@ -292,14 +268,53 @@
       "plugin_opts": "mux=0;path=/57.128.28.207-443;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
     },
     {
+      "type": "trojan",
+      "tag": "- - 2",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "0e67df2b-c3a4-493f-809d-4f601f326455",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/54.36.98.93-2053",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
       "type": "shadowsocks",
-      "tag": "🇳🇱 DigitalOcean, LLC 5",
+      "tag": "🇳🇱 DigitalOcean, LLC 3",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
       "method": "none",
       "password": "0ea0b0e2-fc8a-4134-9f8e-01ece7527e98",
       "plugin": "v2ray-plugin",
       "plugin_opts": "mux=0;path=/178.62.210.202-443;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇳🇱 Schokker IT B.V. 4",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "method": "none",
+      "password": "fd7d3fc4-86f0-4336-85af-f1e3f690a961",
+      "plugin": "v2ray-plugin",
+      "plugin_opts": "mux=0;path=/185.155.220.64-443;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇫🇷 CGI GLOBAL LIMITED 5",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "method": "none",
+      "password": "9722b915-4a04-450b-9186-cadf9a3eae40",
+      "plugin": "v2ray-plugin",
+      "plugin_opts": "mux=0;path=/193.176.179.89-443;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
     },
     {
       "type": "shadowsocks",
@@ -312,24 +327,53 @@
       "plugin_opts": "mux=0;path=/104.224.167.96-443;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
     },
     {
+      "type": "trojan",
+      "tag": "- - 7",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "password": "0079e1dd-2aac-4cc1-b751-168c13f0ec86",
+      "tls": {
+        "enabled": true,
+        "server_name": "quiz.int.vidio.com.admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/94.232.245.163-443",
+        "headers": {
+          "Host": "quiz.int.vidio.com.admin.ari-andika2.site"
+        }
+      }
+    },
+    {
       "type": "shadowsocks",
-      "tag": "🇧🇪 PQ HOSTING PLUS S.R.L. 7",
+      "tag": "🇩🇪 Oracle Corporation 8",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "method": "none",
+      "password": "9acae1d4-94a1-453b-b74f-f604bdf75312",
+      "plugin": "v2ray-plugin",
+      "plugin_opts": "mux=0;path=/89.168.68.57-2053;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇩🇪 OVH SAS 9",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "method": "none",
+      "password": "03263c98-b859-47e5-b49f-40cca431a2d1",
+      "plugin": "v2ray-plugin",
+      "plugin_opts": "mux=0;path=/5.178.106.41-2053;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
+    },
+    {
+      "type": "shadowsocks",
+      "tag": "🇧🇪 PQ HOSTING PLUS S.R.L. 10",
       "server": "quiz.int.vidio.com",
       "server_port": 443,
       "method": "none",
       "password": "328b14c5-7c18-4f50-8bdd-acf39443b38b",
       "plugin": "v2ray-plugin",
       "plugin_opts": "mux=0;path=/95.164.62.196-443;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "🇳🇱 Schokker IT B.V. 8",
-      "server": "quiz.int.vidio.com",
-      "server_port": 443,
-      "method": "none",
-      "password": "fd7d3fc4-86f0-4336-85af-f1e3f690a961",
-      "plugin": "v2ray-plugin",
-      "plugin_opts": "mux=0;path=/185.155.220.64-443;host=admin.ari-andika2.site;tls;sni=admin.ari-andika2.site;encryption=none"
     },
     {
       "type": "direct",
