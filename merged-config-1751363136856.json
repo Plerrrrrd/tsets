@@ -163,14 +163,16 @@
       "type": "selector",
       "outbounds": [
         "Best Latency",
-        "direct"
+        "direct",
+        "- - 1"
       ]
     },
     {
       "type": "urltest",
       "tag": "Best Latency",
       "outbounds": [
-        "direct"
+        "direct",
+        "- - 1"
       ],
       "url": "https://www.gstatic.com/generate_204",
       "interval": "30s"
@@ -178,7 +180,9 @@
     {
       "type": "selector",
       "tag": "Lock Region ID",
-      "outbounds": []
+      "outbounds": [
+        "- - 1"
+      ]
     },
     {
       "type": "selector",
@@ -225,6 +229,25 @@
         "block",
         "Internet"
       ]
+    },
+    {
+      "type": "vless",
+      "tag": "- - 1",
+      "server": "quiz.int.vidio.com",
+      "server_port": 443,
+      "uuid": "b9c09fbe-2fa4-45fe-af51-ab009fed05c3",
+      "tls": {
+        "enabled": true,
+        "server_name": "admin.ari-andika2.site",
+        "insecure": false
+      },
+      "transport": {
+        "type": "ws",
+        "path": "/136.244.95.103-8443",
+        "headers": {
+          "Host": "admin.ari-andika2.site"
+        }
+      }
     },
     {
       "type": "direct",
